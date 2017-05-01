@@ -40,6 +40,9 @@ module.exports = {
 
 Below are the available configuration options:
 
+### writeOnlyOnSuccess `false`
+Set to `true` to write coverage only if all tests pass  
+
 ### dir
 
 The directory to write coverage reports to.
